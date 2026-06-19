@@ -234,5 +234,3 @@ The architect's job is not just to write the first prompt. It is to
 
 ---
 
-*Built as part of the Generative AI Self Discovery Lab —
-University of Houston, Cullen College of Engineering, June 2026.*
